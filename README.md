@@ -8,7 +8,7 @@ This repository contains practical, open-source tools to help organizations impl
 
 This repository contains our flagship tool, a comprehensive Excel spreadsheet that maps every sub-category of the NIST AI RMF to its corresponding clause in ISO 42001.
 
-**[Download the Excel Template Here](<LINK_TO_THE_RAW_EXCEL_FILE_ON_GITHUB>)**
+**[Download the Excel Template Here] https://github.com/BinaryVerseAI/ai-governance-framework-tools/blob/main/NIST_to_ISO_42001_Gap_Analysis.xlsx**
 
 This tool is designed to be used with our definitive guide on the topic, which provides a full strategic comparison and a step-by-step migration playbook.
 
